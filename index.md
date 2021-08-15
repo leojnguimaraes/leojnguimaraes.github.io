@@ -2,8 +2,6 @@
 
 [Minha página no servidor da UFPE](http://www.lmcg.ufpe.br/~leo/)
 
----
-
 ## Sobre mim:
 
 Sou professor do Departamento de Engenharia Civil da UFPE.
