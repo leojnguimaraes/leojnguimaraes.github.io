@@ -1,14 +1,12 @@
 # Leonardo José do Nascimento Guimarães
 
-# RESUMÈ
-
-[Minha página no servidor da UFPE](http://www.lmcg.ufpe.br/~leo/)
-
 ## Sobre mim:
 
 Sou professor do Departamento de Engenharia Civil da UFPE.
 
 Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenharias de Petróleo e Geotécnica.
+
+[Minha página no servidor da UFPE](http://www.lmcg.ufpe.br/~leo/)
 
 ## Minhas linguagens de programação:
 
