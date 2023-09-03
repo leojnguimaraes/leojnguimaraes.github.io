@@ -21,8 +21,8 @@ Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenha
 
 ## Por que (Modern) Fortran?
 
-![](https://github.com/leojnguimaraes/leojnguimaraes.github.io/blob/master/fortran_class.png)
-
+![Na sala de aula](https://github.com/leojnguimaraes/leojnguimaraes.github.io/blob/master/fortran_class.png)
+![Sobre o futuro]()
 
 <!---
 - 👋 Hi, I’m @leojnguimaraes
