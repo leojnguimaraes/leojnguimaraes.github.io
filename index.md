@@ -19,6 +19,8 @@ Trabalho na aplicação do Método dos Elementos Finitos a problemas das Engenha
 - Linux
 - Windows
 
+![]()
+
 <!---
 - 👋 Hi, I’m @leojnguimaraes
 - 👀 I’m interested in ...
